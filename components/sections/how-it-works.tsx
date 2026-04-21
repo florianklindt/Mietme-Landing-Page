@@ -66,8 +66,8 @@ export function HowItWorks() {
                 alt="mietme App auf dem Smartphone"
                 width={1680}
                 height={1680}
-                sizes="(min-width: 768px) 50vw, 50vw"
-                className="mx-auto h-auto w-full max-w-none md:mx-0 md:max-w-[640px]"
+                sizes="(min-width: 768px) 50vw, 100vw"
+                className="mx-auto h-auto w-full max-w-none origin-right scale-[2] md:mx-0 md:max-w-[640px] md:origin-center md:scale-100"
                 priority={false}
               />
             </Reveal>
