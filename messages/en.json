@@ -1,1 +1,272 @@
-{}
+{
+  "nav": {
+    "howItWorks": "How it works",
+    "categories": "Categories",
+    "forHosts": "For hosts",
+    "faq": "FAQ",
+    "about": "About",
+    "cta": "Open app",
+    "menu": "Open menu",
+    "close": "Close menu"
+  },
+  "hero": {
+    "eyebrow": "PEER-TO-PEER · LOCAL · MIETME.APP",
+    "headlineLead": "Rent what",
+    "headlineAccent1": "you need,",
+    "headlineConnector": "when you",
+    "headlineAccent2": "need it.",
+    "subline": "The rental platform for everyday things. Simple, local, close.",
+    "ctaPrimary": "Rent now",
+    "ctaGhost": "Become a host",
+    "scrollHint": "Scroll"
+  },
+  "marquee": {
+    "items": [
+      "Tools",
+      "Sports",
+      "Electronics",
+      "Garden",
+      "Camping",
+      "Home",
+      "Travel"
+    ]
+  },
+  "how": {
+    "eyebrow": "01 / How it works",
+    "title": "Three steps. That's it.",
+    "lead": "No fuss. Find what you need and get started.",
+    "steps": [
+      {
+        "n": "01",
+        "title": "Find",
+        "body": "Browse listings nearby. Filter by category, price and distance.",
+        "meta": "Avg. 47 listings per km²"
+      },
+      {
+        "n": "02",
+        "title": "Request",
+        "body": "Message the host directly. Arrange pickup, timeframe and deposit in just a few messages.",
+        "meta": "Reply in under 2h"
+      },
+      {
+        "n": "03",
+        "title": "Pick up",
+        "body": "Meet, hand over, get going. With photo check and digital handover protocol.",
+        "meta": "Local pickup"
+      }
+    ]
+  },
+  "categories": {
+    "title": "Popular categories",
+    "items": [
+      { "slug": "party", "title": "Party & Event" },
+      { "slug": "werkzeug", "title": "Tools" },
+      { "slug": "haushalt", "title": "Home" },
+      { "slug": "elektronik", "title": "Electronics" }
+    ]
+  },
+  "renters": {
+    "eyebrow": "03 / For renters",
+    "title": "Use, don't own.",
+    "lead": "You need something for a weekend, a project, a trip. Don't buy it. Rent it.",
+    "benefits": [
+      {
+        "title": "Save money",
+        "body": "Pay a fraction of the purchase price. No shelves full of tools that only see use twice a year."
+      },
+      {
+        "title": "Right around the corner",
+        "body": "Everything local. Bike rides instead of deliveries. In-person handover instead of parcel pickup."
+      },
+      {
+        "title": "Protected",
+        "body": "Verified profiles, reviews and damage protection give you the peace of mind you need."
+      }
+    ],
+    "cta": "Rent now"
+  },
+  "hosts": {
+    "eyebrow": "04 / For hosts",
+    "title": "Earn with what's already sitting around.",
+    "lead": "Your things work for you. List what you don't need every day and earn passively.",
+    "benefits": [
+      {
+        "title": "Online in minutes",
+        "body": "Take a photo, set a price, done. No shop, no hassle."
+      },
+      {
+        "title": "You decide",
+        "body": "Availability, deposit, pickup times. All in your hands, no fixed rules."
+      },
+      {
+        "title": "Covered",
+        "body": "Our protection covers damage and loss. You stay relaxed."
+      }
+    ],
+    "cta": "List your stuff"
+  },
+  "sustainability": {
+    "eyebrow": "05 / Sustainability",
+    "title": "Buy less.\nShare more.",
+    "lead": "Every shared tool is one that doesn't need to be newly produced. Here's the result.",
+    "stats": [
+      { "value": 2400, "unit": "t", "label": "CO₂ saved", "suffix": "" },
+      { "value": 68000, "unit": "", "label": "items shared", "suffix": "+" },
+      { "value": 142, "unit": "", "label": "active neighborhoods", "suffix": "" }
+    ]
+  },
+  "trust": {
+    "eyebrow": "06 / Safety",
+    "title": "Trust is built in.",
+    "lead": "We turn strangers into neighbors. That's what our system stands for.",
+    "items": [
+      {
+        "title": "Reviews",
+        "body": "Honest reviews after every transaction. No fakes, no filters."
+      },
+      {
+        "title": "Verified profiles",
+        "body": "ID, phone and address are checked. You know who you're dealing with."
+      },
+      {
+        "title": "24/7 support",
+        "body": "Real people instead of chatbots. We reply within two hours."
+      },
+      {
+        "title": "Damage protection",
+        "body": "Included for every verified booking. Covered up to 10,000 euros."
+      }
+    ]
+  },
+  "reviews": {
+    "eyebrow": "07 / Voices",
+    "title": "What our community says.",
+    "communityTicker": "12,400 active neighbors",
+    "items": [
+      {
+        "name": "Lena M.",
+        "city": "Berlin",
+        "rating": 5,
+        "text": "Rented full camping gear for a weekend. Neighbor two streets away. Cheaper than any shop."
+      },
+      {
+        "name": "Jakob R.",
+        "city": "Hamburg",
+        "rating": 5,
+        "text": "Easily earn 120 euros a month with my drill that used to just sit there. Absurdly easy to set up."
+      },
+      {
+        "name": "Farah T.",
+        "city": "Munich",
+        "rating": 5,
+        "text": "Finally a platform that feels like a neighborhood. No anonymous marketplace vibes."
+      }
+    ]
+  },
+  "aboutTeaser": {
+    "eyebrow": "08 / About us",
+    "title": "Behind mietme is a small team.",
+    "lead": "mietme connects neighbors so things get used instead of sitting around. Not ownership for its own sake, but access when you need it.",
+    "cta": "More about us"
+  },
+  "about": {
+    "meta": {
+      "title": "About us",
+      "description": "Why we're building mietme — access over ownership, local over anonymous, simple over complicated."
+    },
+    "hero": {
+      "eyebrow": "About us",
+      "title": "Why we're building mietme.",
+      "subline": "One product, one idea, one simple conviction."
+    },
+    "idea": {
+      "eyebrow": "Our idea",
+      "title": "Simple because it should stay simple.",
+      "body": "We like the idea because it's simple. Most of the things we need are already somewhere in the neighborhood. Drill, camping tent, projector, party grill. Buying is rarely the best answer, but often the fastest. mietme should change that: access instead of ownership, local instead of anonymous, simple instead of complicated. Buy less. Share more. That's the core."
+    },
+    "team": {
+      "alt": "The team behind mietme, placeholder",
+      "caption": "The team behind mietme"
+    },
+    "cta": {
+      "title": "Want to join?",
+      "lead": "Find what you need, or rent out what's already sitting around.",
+      "button": "Open app"
+    }
+  },
+  "faq": {
+    "eyebrow": "09 / FAQ",
+    "title": "Answers before you ask.",
+    "items": [
+      {
+        "q": "Is it free?",
+        "a": "Signing up is free. A small service fee applies to every booking, covering damage protection and support."
+      },
+      {
+        "q": "What if something breaks?",
+        "a": "Every verified booking is covered by our damage protection. Report the damage within 24 hours and we'll take care of the rest."
+      },
+      {
+        "q": "How does the handover work?",
+        "a": "In person. You meet, do a quick photo protocol in the app, and the item changes hands. Same thing on return."
+      },
+      {
+        "q": "Can I also offer services?",
+        "a": "No. mietme is exclusively for physical items. There are other platforms for services."
+      },
+      {
+        "q": "What if the host doesn't reply?",
+        "a": "You should get a reply within 24 hours. Otherwise you book somewhere else and our support reaches out to the host."
+      },
+      {
+        "q": "Can I set the deposit?",
+        "a": "Yes. As a host you decide how high the deposit is. It's automatically held and released after the return."
+      },
+      {
+        "q": "Is mietme available in my city?",
+        "a": "We're starting in Berlin."
+      }
+    ]
+  },
+  "finalCta": {
+    "eyebrow": "10 / Get started",
+    "title": "Rent what you need.\nToday.",
+    "lead": "No account required for browsing. In two minutes you'll find out whether someone down the street has a projector to rent.",
+    "ctaPrimary": "Rent now",
+    "ctaGhost": "List your stuff"
+  },
+  "footer": {
+    "tagline": "Neighborhood renting, made simple.",
+    "sections": [
+      {
+        "title": "Product",
+        "links": [
+          { "label": "How it works", "href": "/#wie" },
+          { "label": "Categories", "href": "/#kategorien" },
+          { "label": "For hosts", "href": "/#vermieter" },
+          { "label": "FAQ", "href": "/#faq" }
+        ]
+      },
+      {
+        "title": "Company",
+        "links": [
+          { "label": "About us", "href": "/ueber-uns" },
+          { "label": "Press", "href": "#" },
+          { "label": "Jobs", "href": "#" },
+          { "label": "Contact", "href": "mailto:hello@mietme.app" }
+        ]
+      },
+      {
+        "title": "Legal",
+        "links": [
+          { "label": "Imprint", "href": "/impressum" },
+          { "label": "Privacy", "href": "/datenschutz" },
+          { "label": "Terms", "href": "#" },
+          { "label": "Damage protection", "href": "#" }
+        ]
+      }
+    ],
+    "copyright": "© 2026 mietme. All rights reserved.",
+    "langLabel": "Language"
+  }
+}

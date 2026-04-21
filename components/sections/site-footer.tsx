@@ -1,15 +1,27 @@
 "use client";
 
-import { useTranslations } from "next-intl";
+import { useTransition } from "react";
+import { useLocale, useTranslations } from "next-intl";
 import { Github, Instagram, Linkedin } from "lucide-react";
 import { Logo } from "@/components/nav/logo";
+import { setLocale } from "@/lib/locale-action";
+import { cn } from "@/lib/cn";
 
 type Link = { label: string; href: string };
 type FooterSection = { title: string; links: Link[] };
 
 export function SiteFooter() {
   const t = useTranslations("footer");
+  const locale = useLocale();
+  const [isPending, startTransition] = useTransition();
   const sections = t.raw("sections") as FooterSection[];
+
+  const switchTo = (next: "de" | "en") => {
+    if (next === locale || isPending) return;
+    startTransition(() => {
+      setLocale(next);
+    });
+  };
 
   return (
     <footer className="border-t border-hairline bg-bg">
@@ -69,21 +81,26 @@ export function SiteFooter() {
             role="group"
             aria-label={t("langLabel")}
           >
-            <button
-              type="button"
-              aria-pressed="true"
-              className="min-h-[36px] rounded-full bg-ink px-4 py-1.5 text-white"
-            >
-              DE
-            </button>
-            <button
-              type="button"
-              aria-pressed="false"
-              className="min-h-[36px] rounded-full px-4 py-1.5 text-ink-muted hover:text-ink disabled:cursor-not-allowed"
-              disabled
-            >
-              EN
-            </button>
+            {(["de", "en"] as const).map((code) => {
+              const active = locale === code;
+              return (
+                <button
+                  key={code}
+                  type="button"
+                  aria-pressed={active}
+                  onClick={() => switchTo(code)}
+                  disabled={isPending || active}
+                  className={cn(
+                    "min-h-[36px] rounded-full px-4 py-1.5 transition-colors",
+                    active
+                      ? "bg-ink text-white"
+                      : "text-ink-muted hover:text-ink disabled:cursor-not-allowed"
+                  )}
+                >
+                  {code.toUpperCase()}
+                </button>
+              );
+            })}
           </div>
         </div>
       </div>
