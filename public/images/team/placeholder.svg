@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" preserveAspectRatio="xMidYMid slice" role="img" aria-label="Platzhalter fuer Teamfoto">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#F5F5F5"/>
+      <stop offset="100%" stop-color="#ECECEC"/>
+    </linearGradient>
+    <pattern id="grid" width="80" height="80" patternUnits="userSpaceOnUse">
+      <path d="M 80 0 L 0 0 0 80" fill="none" stroke="#E5E5E5" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1600" height="1000" fill="url(#bg)"/>
+  <rect width="1600" height="1000" fill="url(#grid)" opacity="0.6"/>
+  <g transform="translate(800 470)" opacity="0.28">
+    <circle cx="-220" cy="-20" r="90" fill="#9CA3AF"/>
+    <circle cx="0" cy="-50" r="100" fill="#6B6B6B"/>
+    <circle cx="220" cy="-20" r="90" fill="#9CA3AF"/>
+    <path d="M -360 180 C -280 60, -120 60, -80 180 L -80 260 L -360 260 Z" fill="#9CA3AF"/>
+    <path d="M -120 180 C -40 40, 120 40, 120 180 L 120 260 L -120 260 Z" fill="#6B6B6B"/>
+    <path d="M 80 180 C 120 60, 280 60, 360 180 L 360 260 L 80 260 Z" fill="#9CA3AF"/>
+  </g>
+  <g transform="translate(800 820)">
+    <circle cx="-90" cy="0" r="4" fill="#00D66C"/>
+    <text x="0" y="5" text-anchor="middle" font-family="ui-sans-serif, system-ui, -apple-system, sans-serif" font-size="22" font-weight="500" fill="#6B6B6B" letter-spacing="3">TEAMFOTO FOLGT</text>
+    <circle cx="90" cy="0" r="4" fill="#00D66C"/>
+  </g>
+</svg>

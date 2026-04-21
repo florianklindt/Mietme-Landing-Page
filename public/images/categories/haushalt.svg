@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-label="Stabmixer">
+  <rect width="400" height="400" fill="#FFFFFF"/>
+  <g transform="translate(130,60)">
+    <rect x="30" y="0" width="80" height="160" rx="16" fill="#0A0A0A"/>
+    <rect x="30" y="0" width="80" height="18" fill="#00D66C"/>
+    <circle cx="70" cy="40" r="10" fill="#00D66C"/>
+    <rect x="40" y="64" width="60" height="22" rx="4" fill="#1A1A1A"/>
+    <rect x="52" y="72" width="36" height="6" rx="2" fill="#00D66C"/>
+    <rect x="40" y="100" width="60" height="10" rx="3" fill="#1A1A1A"/>
+    <rect x="40" y="120" width="60" height="10" rx="3" fill="#1A1A1A"/>
+    <rect x="50" y="160" width="40" height="60" rx="3" fill="#9CA3AF"/>
+    <path d="M 30 220 L 110 220 L 100 280 L 40 280 Z" fill="#E5E5E5" stroke="#9CA3AF" stroke-width="2"/>
+    <circle cx="70" cy="280" r="10" fill="#0A0A0A"/>
+    <path d="M 55 275 L 85 275" stroke="#00D66C" stroke-width="2"/>
+  </g>
+  <line x1="30" y1="350" x2="370" y2="350" stroke="#E5E5E5" stroke-width="1"/>
+</svg>

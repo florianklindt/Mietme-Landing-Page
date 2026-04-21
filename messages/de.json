@@ -1,0 +1,272 @@
+{
+  "nav": {
+    "howItWorks": "Wie es funktioniert",
+    "categories": "Kategorien",
+    "forHosts": "Für Vermieter",
+    "faq": "FAQ",
+    "about": "Über uns",
+    "cta": "Zur App",
+    "menu": "Menü öffnen",
+    "close": "Menü schließen"
+  },
+  "hero": {
+    "eyebrow": "PEER-TO-PEER · LOKAL · MIETME.APP",
+    "headlineLead": "Miete, was du",
+    "headlineAccent1": "brauchst,",
+    "headlineConnector": "wann du es",
+    "headlineAccent2": "brauchst.",
+    "subline": "Die Verleihplattform für Gegenstände aller Art. Einfach und nah.",
+    "ctaPrimary": "Jetzt ausleihen",
+    "ctaGhost": "Selbst vermieten",
+    "scrollHint": "Scrollen"
+  },
+  "marquee": {
+    "items": [
+      "Werkzeug",
+      "Sport",
+      "Elektronik",
+      "Garten",
+      "Camping",
+      "Haushalt",
+      "Reise"
+    ]
+  },
+  "how": {
+    "eyebrow": "01 / Wie es funktioniert",
+    "title": "Drei Schritte. Mehr nicht.",
+    "lead": "Kein Schnickschnack. Finde, was du brauchst, und leg direkt los.",
+    "steps": [
+      {
+        "n": "01",
+        "title": "Finden",
+        "body": "Durchsuche Angebote in deiner Nähe. Filter nach Kategorie, Preis und Distanz.",
+        "meta": "Ø 47 Angebote pro km²"
+      },
+      {
+        "n": "02",
+        "title": "Anfragen",
+        "body": "Schreibe dem Vermieter direkt. Kläre Abholung, Zeitraum und Kaution in wenigen Nachrichten.",
+        "meta": "Antwort in unter 2h"
+      },
+      {
+        "n": "03",
+        "title": "Ausleihen",
+        "body": "Treffen, übergeben, loslegen. Mit Foto-Check und digitalem Übergabeprotokoll.",
+        "meta": "Abholung vor Ort"
+      }
+    ]
+  },
+  "categories": {
+    "title": "Aktuelle Kategorien",
+    "items": [
+      { "slug": "party", "title": "Party & Event" },
+      { "slug": "werkzeug", "title": "Werkzeug" },
+      { "slug": "haushalt", "title": "Haushalt" },
+      { "slug": "elektronik", "title": "Elektronik" }
+    ]
+  },
+  "renters": {
+    "eyebrow": "03 / Für Mieter",
+    "title": "Nutzen, statt besitzen.",
+    "lead": "Du brauchst etwas für ein Wochenende, ein Projekt, eine Reise. Kauf es nicht. Leih es.",
+    "benefits": [
+      {
+        "title": "Spare Geld",
+        "body": "Zahle einen Bruchteil des Kaufpreises. Keine Regale voller Werkzeug, das nur zweimal im Jahr zum Einsatz kommt."
+      },
+      {
+        "title": "In deiner Nähe",
+        "body": "Alles lokal. Fahrradwege statt Lieferung. Persönliche Übergabe statt Paketabholung."
+      },
+      {
+        "title": "Geschützt",
+        "body": "Verifizierte Profile, Bewertungen und ein Schadensschutz geben dir die Sicherheit, die du brauchst."
+      }
+    ],
+    "cta": "Jetzt ausleihen"
+  },
+  "hosts": {
+    "eyebrow": "04 / Für Vermieter",
+    "title": "Verdiene mit dem, was ohnehin rumsteht.",
+    "lead": "Deine Dinge arbeiten für dich. Stell ein, was du nicht täglich brauchst, und verdiene passiv.",
+    "benefits": [
+      {
+        "title": "In Minuten online",
+        "body": "Foto machen, Preis festlegen, fertig. Kein Shop, kein Aufwand."
+      },
+      {
+        "title": "Du entscheidest",
+        "body": "Verfügbarkeit, Kaution, Abholzeiten. Alles in deiner Hand, keine festen Regeln."
+      },
+      {
+        "title": "Abgesichert",
+        "body": "Unser Schutz deckt Schäden und Verlust ab. Du bleibst entspannt."
+      }
+    ],
+    "cta": "Jetzt Sachen anbieten"
+  },
+  "sustainability": {
+    "eyebrow": "05 / Nachhaltigkeit",
+    "title": "Weniger kaufen.\nMehr teilen.",
+    "lead": "Jedes geteilte Werkzeug ist eines, das nicht neu produziert werden muss. Das Ergebnis siehst du hier.",
+    "stats": [
+      { "value": 2400, "unit": "t", "label": "CO₂ eingespart", "suffix": "" },
+      { "value": 68000, "unit": "", "label": "Items geteilt", "suffix": "+" },
+      { "value": 142, "unit": "", "label": "Nachbarschaften aktiv", "suffix": "" }
+    ]
+  },
+  "trust": {
+    "eyebrow": "06 / Sicherheit",
+    "title": "Vertrauen ist eingebaut.",
+    "lead": "Wir machen aus Fremden Nachbarn. Dafür steht unser System.",
+    "items": [
+      {
+        "title": "Bewertungen",
+        "body": "Ehrliche Reviews nach jeder Transaktion. Kein Fake, kein Filter."
+      },
+      {
+        "title": "Verifizierte Profile",
+        "body": "Ausweis, Telefon und Adresse werden geprüft. Du weißt, mit wem du zu tun hast."
+      },
+      {
+        "title": "24/7 Support",
+        "body": "Echte Menschen statt Chatbot. Wir melden uns innerhalb von zwei Stunden."
+      },
+      {
+        "title": "Schadensschutz",
+        "body": "Inklusive für alle verifizierten Buchungen. Bis zu 10.000 Euro abgesichert."
+      }
+    ]
+  },
+  "reviews": {
+    "eyebrow": "07 / Stimmen",
+    "title": "Was unsere Community sagt.",
+    "communityTicker": "12.400 aktive Nachbarn",
+    "items": [
+      {
+        "name": "Lena M.",
+        "city": "Berlin",
+        "rating": 5,
+        "text": "Hab mir für ein Wochenende eine komplette Camping-Ausrüstung geliehen. Nachbar zwei Straßen weiter. Günstiger als jeder Shop."
+      },
+      {
+        "name": "Jakob R.",
+        "city": "Hamburg",
+        "rating": 5,
+        "text": "Verdiene im Monat locker 120 Euro mit meiner Bohrmaschine, die sonst rumstand. Absurd einfach eingerichtet."
+      },
+      {
+        "name": "Farah T.",
+        "city": "München",
+        "rating": 5,
+        "text": "Endlich eine Plattform, die sich wie Nachbarschaft anfühlt. Keine anonymen Marktplatz-Vibes."
+      }
+    ]
+  },
+  "aboutTeaser": {
+    "eyebrow": "08 / Über uns",
+    "title": "Hinter mietme steckt ein kleines Team.",
+    "lead": "mietme verbindet Menschen in der Nachbarschaft, damit Dinge genutzt werden statt herumzustehen. Kein Besitz um des Besitzens willen, sondern Zugang, wenn man ihn braucht.",
+    "cta": "Mehr über uns"
+  },
+  "about": {
+    "meta": {
+      "title": "Über uns",
+      "description": "Warum wir mietme bauen — Zugang statt Besitz, lokal statt anonym, einfach statt kompliziert."
+    },
+    "hero": {
+      "eyebrow": "Über uns",
+      "title": "Warum wir mietme bauen.",
+      "subline": "Ein Produkt, eine Idee, eine einfache Überzeugung."
+    },
+    "idea": {
+      "eyebrow": "Unsere Idee",
+      "title": "Einfach, weil sie einfach bleiben soll.",
+      "body": "Wir finden die Idee gut, weil sie einfach ist. Die meisten Dinge, die wir brauchen, liegen schon irgendwo in der Nachbarschaft. Bohrmaschine, Campingzelt, Beamer, Partygrill. Kaufen ist selten die beste Antwort, aber oft die schnellste. mietme soll das ändern: Zugang statt Besitz, lokal statt anonym, einfach statt kompliziert. Weniger neu kaufen. Mehr teilen. Das ist der Kern."
+    },
+    "team": {
+      "alt": "Das Team hinter mietme, Platzhalter",
+      "caption": "Das Team hinter mietme"
+    },
+    "cta": {
+      "title": "Willst du mitmachen?",
+      "lead": "Finde, was du brauchst, oder verleihe, was bei dir ohnehin herumsteht.",
+      "button": "Zur App"
+    }
+  },
+  "faq": {
+    "eyebrow": "09 / FAQ",
+    "title": "Antworten, bevor du fragst.",
+    "items": [
+      {
+        "q": "Ist das kostenlos?",
+        "a": "Das Registrieren ist kostenlos. Bei jeder Buchung fällt eine kleine Service-Gebühr an, die den Schadensschutz und den Support deckt."
+      },
+      {
+        "q": "Was passiert, wenn etwas kaputt geht?",
+        "a": "Jede verifizierte Buchung ist durch unseren Schadensschutz abgedeckt. Melde den Schaden innerhalb von 24 Stunden, wir kümmern uns um den Rest."
+      },
+      {
+        "q": "Wie läuft die Übergabe ab?",
+        "a": "Persönlich. Ihr trefft euch, macht ein kurzes Foto-Protokoll in der App und das Gerät wechselt den Besitzer. Bei der Rückgabe dasselbe."
+      },
+      {
+        "q": "Kann ich auch Dienstleistungen anbieten?",
+        "a": "Nein. mietme ist ausschließlich für physische Gegenstände. Für Dienstleistungen gibt es andere Plattformen."
+      },
+      {
+        "q": "Was, wenn der Vermieter nicht antwortet?",
+        "a": "Innerhalb von 24 Stunden sollte es eine Antwort geben. Sonst buchst du anderswo, und unser Support meldet sich beim Vermieter."
+      },
+      {
+        "q": "Kann ich die Kaution festlegen?",
+        "a": "Ja. Als Vermieter entscheidest du, wie hoch die Kaution ist. Sie wird automatisch eingefroren und nach der Rückgabe freigegeben."
+      },
+      {
+        "q": "Gibt es mietme in meiner Stadt?",
+        "a": "Wir starten in Berlin."
+      }
+    ]
+  },
+  "finalCta": {
+    "eyebrow": "10 / Loslegen",
+    "title": "Leih dir, was du brauchst.\nHeute noch.",
+    "lead": "Kein Account-Zwang für das Stöbern. In zwei Minuten findest du heraus, ob jemand in deiner Straße gerade einen Beamer verleiht.",
+    "ctaPrimary": "Jetzt ausleihen",
+    "ctaGhost": "Sachen anbieten"
+  },
+  "footer": {
+    "tagline": "Nachbarschaftliches Verleihen, einfach gemacht.",
+    "sections": [
+      {
+        "title": "Produkt",
+        "links": [
+          { "label": "Wie es funktioniert", "href": "/#wie" },
+          { "label": "Kategorien", "href": "/#kategorien" },
+          { "label": "Für Vermieter", "href": "/#vermieter" },
+          { "label": "FAQ", "href": "/#faq" }
+        ]
+      },
+      {
+        "title": "Unternehmen",
+        "links": [
+          { "label": "Über uns", "href": "/ueber-uns" },
+          { "label": "Presse", "href": "#" },
+          { "label": "Jobs", "href": "#" },
+          { "label": "Kontakt", "href": "mailto:hello@mietme.app" }
+        ]
+      },
+      {
+        "title": "Rechtliches",
+        "links": [
+          { "label": "Impressum", "href": "/impressum" },
+          { "label": "Datenschutz", "href": "/datenschutz" },
+          { "label": "AGB", "href": "#" },
+          { "label": "Schadensschutz", "href": "#" }
+        ]
+      }
+    ],
+    "copyright": "© 2026 mietme. Alle Rechte vorbehalten.",
+    "langLabel": "Sprache"
+  }
+}

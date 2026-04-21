@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-label="Campingkocher">
+  <rect width="400" height="400" fill="#FFFFFF"/>
+  <g transform="translate(80,110)">
+    <ellipse cx="120" cy="200" rx="110" ry="12" fill="#000" opacity="0.06"/>
+    <rect x="60" y="80" width="120" height="100" rx="10" fill="#0A0A0A"/>
+    <rect x="60" y="80" width="120" height="16" fill="#00D66C"/>
+    <circle cx="100" cy="140" r="18" fill="#1A1A1A" stroke="#2A2A2A" stroke-width="2"/>
+    <circle cx="140" cy="140" r="18" fill="#1A1A1A" stroke="#2A2A2A" stroke-width="2"/>
+    <circle cx="100" cy="140" r="6" fill="#00D66C"/>
+    <circle cx="140" cy="140" r="6" fill="#9CA3AF"/>
+    <rect x="65" y="160" width="25" height="6" rx="2" fill="#2A2A2A"/>
+    <rect x="150" y="160" width="25" height="6" rx="2" fill="#2A2A2A"/>
+    <path d="M 80 80 L 80 40 C 80 30 90 20 100 20 L 140 20 C 150 20 160 30 160 40 L 160 80" fill="none" stroke="#0A0A0A" stroke-width="4" stroke-linecap="round"/>
+    <circle cx="120" cy="50" r="22" fill="#D5C8B1" stroke="#B8A88B" stroke-width="2"/>
+    <path d="M 110 45 Q 120 35, 130 45" stroke="#8E7A5C" stroke-width="1" fill="none"/>
+  </g>
+  <line x1="30" y1="340" x2="370" y2="340" stroke="#E5E5E5" stroke-width="1"/>
+</svg>

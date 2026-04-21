@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 750" role="img" aria-label="Junger Mensch mit Werkzeug in der Hand, urban">
+  <defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#F5F5F5"/>
+      <stop offset="100%" stop-color="#E5E5E5"/>
+    </linearGradient>
+    <pattern id="grain2" width="3" height="3" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="0.4" fill="#000" opacity="0.04"/>
+    </pattern>
+  </defs>
+  <rect width="600" height="750" fill="url(#bg1)"/>
+
+  <g opacity="0.3" stroke="#9CA3AF" stroke-width="0.8">
+    <line x1="0" y1="180" x2="600" y2="180"/>
+    <line x1="0" y1="330" x2="600" y2="330"/>
+    <line x1="0" y1="480" x2="600" y2="480"/>
+    <line x1="120" y1="0" x2="120" y2="750"/>
+    <line x1="300" y1="0" x2="300" y2="750"/>
+    <line x1="480" y1="0" x2="480" y2="750"/>
+  </g>
+
+  <g transform="translate(150,100)">
+    <circle cx="150" cy="120" r="80" fill="#E8C9A8" stroke="#B8866A" stroke-width="2"/>
+    <path d="M 80 90 C 90 50, 140 30, 180 40 C 220 45, 240 80, 230 120 L 230 130 L 210 110 L 170 100 L 120 110 Z" fill="#0A0A0A"/>
+    <path d="M 125 120 Q 135 115, 142 122" stroke="#3A2A1E" stroke-width="4" fill="none" stroke-linecap="round"/>
+    <path d="M 165 120 Q 175 115, 182 122" stroke="#3A2A1E" stroke-width="4" fill="none" stroke-linecap="round"/>
+    <path d="M 130 160 Q 150 175, 170 160" stroke="#3A2A1E" stroke-width="3" fill="none" stroke-linecap="round"/>
+    <path d="M 90 210 L 210 210 L 240 400 L 60 400 Z" fill="#00D66C"/>
+    <path d="M 90 210 L 100 300 L 200 300 L 210 210" fill="#00C25F" opacity="0.3"/>
+    <path d="M 60 400 L 40 530 L 110 530 L 120 420" fill="#1A1A1A"/>
+    <path d="M 240 400 L 260 530 L 190 530 L 180 420" fill="#1A1A1A"/>
+
+    <path d="M 50 240 L 20 340 L 0 430" stroke="#E8C9A8" stroke-width="28" fill="none" stroke-linecap="round"/>
+    <circle cx="0" cy="430" r="22" fill="#E8C9A8" stroke="#B8866A" stroke-width="2"/>
+
+    <rect x="-30" y="390" width="80" height="28" rx="6" fill="#0A0A0A" transform="rotate(-15 10 404)"/>
+    <rect x="35" y="380" width="30" height="14" rx="3" fill="#00D66C" transform="rotate(-15 50 387)"/>
+    <rect x="-50" y="400" width="25" height="14" rx="3" fill="#3A3A3A" transform="rotate(-15 -37 407)"/>
+  </g>
+
+  <g opacity="0.7">
+    <rect x="40" y="40" width="4" height="4" fill="#00D66C"/>
+    <text x="58" y="52" font-family="ui-monospace, monospace" font-size="10" fill="#0A0A0A" letter-spacing="2.5">FÜR MIETER · BERLIN</text>
+  </g>
+  <rect width="600" height="750" fill="url(#grain2)"/>
+</svg>

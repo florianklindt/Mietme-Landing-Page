@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-label="Rasenmäher">
+  <rect width="400" height="400" fill="#FFFFFF"/>
+  <g transform="translate(50,100)">
+    <path d="M 60 180 L 200 120 L 210 110 L 230 60 L 260 60 L 250 120 L 240 140 L 240 200 L 60 200 Z" fill="#0A0A0A"/>
+    <rect x="215" y="50" width="52" height="14" rx="4" fill="#1A1A1A"/>
+    <rect x="70" y="120" width="120" height="60" rx="8" fill="#00D66C"/>
+    <rect x="70" y="160" width="120" height="20" rx="4" fill="#00C25F"/>
+    <circle cx="90" cy="200" r="26" fill="#1A1A1A"/>
+    <circle cx="90" cy="200" r="10" fill="#0A0A0A"/>
+    <circle cx="180" cy="200" r="26" fill="#1A1A1A"/>
+    <circle cx="180" cy="200" r="10" fill="#0A0A0A"/>
+    <path d="M 72 148 L 188 148" stroke="#0A0A0A" stroke-width="2"/>
+    <circle cx="130" cy="135" r="4" fill="#FFFFFF"/>
+  </g>
+  <line x1="30" y1="340" x2="370" y2="340" stroke="#E5E5E5" stroke-width="1"/>
+</svg>
