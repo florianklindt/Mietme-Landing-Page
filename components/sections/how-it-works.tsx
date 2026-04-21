@@ -59,7 +59,7 @@ export function HowItWorks() {
         </div>
 
         <div className="mt-14 grid grid-cols-2 items-start gap-4 md:mt-20 md:gap-16 lg:gap-20">
-          <div className="sticky top-4 self-start overflow-visible md:top-0 md:flex md:h-screen md:items-center md:justify-center">
+          <div className="sticky top-0 flex h-screen items-center justify-center overflow-visible">
             <Reveal as="div" className="-ml-5 block w-[calc(100%+20px)] md:ml-0 md:w-full">
               <Image
                 src="/images/how-mockup.png"
@@ -87,16 +87,7 @@ function StepsTimeline({ steps, reduce }: { steps: Step[]; reduce: boolean }) {
   const [thresholds, setThresholds] = useState<number[]>([]);
   const [padding, setPadding] = useState({ top: 0, bottom: 0 });
   const [activeIndex, setActiveIndex] = useState(reduce ? steps.length - 1 : -1);
-  const [isMd, setIsMd] = useState(false);
   const progress = useMotionValue(reduce ? 1 : 0);
-
-  useLayoutEffect(() => {
-    const mq = window.matchMedia("(min-width: 768px)");
-    const sync = () => setIsMd(mq.matches);
-    sync();
-    mq.addEventListener("change", sync);
-    return () => mq.removeEventListener("change", sync);
-  }, []);
 
   useLayoutEffect(() => {
     const ol = olRef.current;
@@ -125,23 +116,17 @@ function StepsTimeline({ steps, reduce }: { steps: Step[]; reduce: boolean }) {
         });
         setThresholds(next);
       }
-      if (isMd) {
-        const vh = window.innerHeight;
-        const fHalf = fRect.height / 2;
-        const leading = firstCenterInOl - fHalf;
-        const trailingFromCenter = olRect.height - lastCenterInOl;
-        const padTop = Math.max(0, vh / 2 - leading - fHalf);
-        const padBottom = Math.max(0, vh / 2 - trailingFromCenter);
-        setPadding((prev) =>
-          prev.top === padTop && prev.bottom === padBottom
-            ? prev
-            : { top: padTop, bottom: padBottom }
-        );
-      } else {
-        setPadding((prev) =>
-          prev.top === 0 && prev.bottom === 0 ? prev : { top: 0, bottom: 0 }
-        );
-      }
+      const vh = window.innerHeight;
+      const fHalf = fRect.height / 2;
+      const leading = firstCenterInOl - fHalf;
+      const trailingFromCenter = olRect.height - lastCenterInOl;
+      const padTop = Math.max(0, vh / 2 - leading - fHalf);
+      const padBottom = Math.max(0, vh / 2 - trailingFromCenter);
+      setPadding((prev) =>
+        prev.top === padTop && prev.bottom === padBottom
+          ? prev
+          : { top: padTop, bottom: padBottom }
+      );
     }
     function schedule() {
       cancelAnimationFrame(raf);
@@ -156,7 +141,7 @@ function StepsTimeline({ steps, reduce }: { steps: Step[]; reduce: boolean }) {
       ro.disconnect();
       window.removeEventListener("resize", schedule);
     };
-  }, [isMd]);
+  }, []);
 
   useEffect(() => {
     if (reduce) return;

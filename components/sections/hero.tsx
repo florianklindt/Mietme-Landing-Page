@@ -72,7 +72,6 @@ export function Hero() {
               <ButtonLink
                 href="https://go.mietme.app"
                 variant="primary"
-                magnetic
                 withArrow
                 fullWidth
                 className="md:w-auto"

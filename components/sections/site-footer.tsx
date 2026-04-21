@@ -1,6 +1,7 @@
 "use client";
 
 import { useTransition } from "react";
+import { motion } from "framer-motion";
 import { useLocale, useTranslations } from "next-intl";
 import { Github, Instagram, Linkedin } from "lucide-react";
 import { Logo } from "@/components/nav/logo";
@@ -77,7 +78,7 @@ export function SiteFooter() {
           <p className="text-[13px] text-ink-muted">{t("copyright")}</p>
 
           <div
-            className="inline-flex items-center gap-1 rounded-full border border-hairline p-1 text-[13px]"
+            className="relative inline-flex items-center gap-1 rounded-full border border-hairline p-1 text-[13px]"
             role="group"
             aria-label={t("langLabel")}
           >
@@ -89,15 +90,20 @@ export function SiteFooter() {
                   type="button"
                   aria-pressed={active}
                   onClick={() => switchTo(code)}
-                  disabled={isPending || active}
                   className={cn(
-                    "min-h-[36px] rounded-full px-4 py-1.5 transition-colors",
-                    active
-                      ? "bg-ink text-white"
-                      : "text-ink-muted hover:text-ink disabled:cursor-not-allowed"
+                    "relative min-h-[36px] rounded-full px-4 py-1.5 transition-colors",
+                    active ? "text-white" : "text-ink-muted hover:text-ink"
                   )}
                 >
-                  {code.toUpperCase()}
+                  {active && (
+                    <motion.span
+                      layoutId="footer-lang-knob"
+                      aria-hidden="true"
+                      className="absolute inset-0 -z-0 rounded-full bg-ink"
+                      transition={{ type: "spring", stiffness: 520, damping: 38 }}
+                    />
+                  )}
+                  <span className="relative z-10">{code.toUpperCase()}</span>
                 </button>
               );
             })}
