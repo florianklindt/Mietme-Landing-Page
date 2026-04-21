@@ -21,7 +21,7 @@ export function Categories() {
         {items.map((cat, i) => (
           <Reveal as="li" key={cat.slug} delay={i * 0.05}>
             <a
-              href="https://mietme.app"
+              href="https://go.mietme.app"
               className="group block transition-transform duration-fast active:scale-[0.98]"
               aria-label={cat.title}
             >

@@ -92,7 +92,7 @@ export function SiteNav() {
 
             <div className="flex items-center gap-3">
               <ButtonLink
-                href="https://mietme.app"
+                href="https://go.mietme.app"
                 variant="primary"
                 className="hidden md:inline-flex h-10 min-h-0 px-5 text-[14px]"
               >
@@ -272,7 +272,7 @@ function MobileNavOverlay({
             className="container-px mx-auto w-full pb-6 pt-4"
           >
             <ButtonLink
-              href="https://mietme.app"
+              href="https://go.mietme.app"
               variant="primary"
               fullWidth
               withArrow

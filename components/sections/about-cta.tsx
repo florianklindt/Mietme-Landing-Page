@@ -34,7 +34,7 @@ export function AboutCta() {
         <div className="md:col-span-4 md:flex md:justify-end">
           <Reveal delay={0.18} className="w-full md:w-auto">
             <ButtonLink
-              href="https://mietme.app"
+              href="https://go.mietme.app"
               variant="inverse"
               magnetic
               withArrow

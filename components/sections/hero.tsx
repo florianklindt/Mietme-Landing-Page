@@ -70,7 +70,7 @@ export function Hero() {
               className="mt-8 flex flex-col gap-3 md:mt-10 md:flex-row md:flex-wrap md:items-center"
             >
               <ButtonLink
-                href="https://mietme.app"
+                href="https://go.mietme.app"
                 variant="primary"
                 magnetic
                 withArrow

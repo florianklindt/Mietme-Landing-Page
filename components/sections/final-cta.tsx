@@ -24,7 +24,7 @@ export function FinalCta() {
         </Reveal>
         <Reveal delay={0.2} className="mt-10 flex flex-col gap-3 md:mt-12 md:flex-row md:flex-wrap md:items-center md:gap-4">
           <ButtonLink
-            href="https://mietme.app"
+            href="https://go.mietme.app"
             variant="inverse"
             magnetic
             withArrow

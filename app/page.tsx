@@ -23,7 +23,7 @@ export default function Home() {
           tone="light"
           imageSide="left"
           nsKey="renters"
-          ctaHref="https://mietme.app"
+          ctaHref="https://go.mietme.app"
           imageSrc="/images/for-renters.jpg"
           imageAlt="Wanderin mit Rucksack und Kamera vor Bergsee und Dolomiten-Panorama."
         />
@@ -33,7 +33,7 @@ export default function Home() {
           imageSide="right"
           imageMode="mockup"
           nsKey="hosts"
-          ctaHref="https://mietme.app"
+          ctaHref="https://go.mietme.app"
           imageSrc="/images/hosts-mockup.png"
           imageAlt="mietme App: Inserat für einen Bosch Werkzeugkoffer mit Preisen und Beschreibung."
         />
