@@ -67,7 +67,7 @@ export function HowItWorks() {
                 width={1680}
                 height={1680}
                 sizes="(min-width: 768px) 50vw, 100vw"
-                className="mx-auto h-auto w-full max-w-none origin-right scale-[2] md:mx-0 md:max-w-[640px] md:origin-center md:scale-100"
+                className="mx-auto h-auto w-full max-w-none origin-right scale-[2] translate-x-1/2 md:mx-0 md:max-w-[640px] md:origin-center md:scale-100 md:translate-x-0"
                 priority={false}
               />
             </Reveal>
