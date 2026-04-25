@@ -11,11 +11,11 @@
   },
   "hero": {
     "eyebrow": "PEER-TO-PEER · LOCAL · MIETME.APP",
-    "headlineLead": "Rent what",
-    "headlineAccent1": "you need,",
-    "headlineConnector": "when you",
-    "headlineAccent2": "need it.",
-    "subline": "The rental platform for everyday things. Simple, local, close.",
+    "headlineLead": "",
+    "headlineAccent1": "Rent.",
+    "headlineConnector": "As easy as",
+    "headlineAccent2": "Buying.",
+    "subline": "Drill, projector, camping gear: from your Berlin neighborhood, booked in minutes. No hardware store, no detours.",
     "ctaPrimary": "Rent now",
     "ctaGhost": "Become a host",
     "scrollHint": "Scroll"

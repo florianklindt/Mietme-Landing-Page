@@ -11,11 +11,11 @@
   },
   "hero": {
     "eyebrow": "PEER-TO-PEER · LOKAL · MIETME.APP",
-    "headlineLead": "Miete, was du",
-    "headlineAccent1": "brauchst,",
-    "headlineConnector": "wann du es",
-    "headlineAccent2": "brauchst.",
-    "subline": "Die Verleihplattform für Gegenstände aller Art. Einfach und nah.",
+    "headlineLead": "",
+    "headlineAccent1": "Miete.",
+    "headlineConnector": "Einfach wie",
+    "headlineAccent2": "Kaufen.",
+    "subline": "Bohrmaschine, Beamer, Campingzelt: aus deiner Berliner Nachbarschaft, in Minuten gebucht. Ohne Baumarkt, ohne Umwege.",
     "ctaPrimary": "Jetzt ausleihen",
     "ctaGhost": "Selbst vermieten",
     "scrollHint": "Scrollen"
