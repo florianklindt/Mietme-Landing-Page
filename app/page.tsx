@@ -5,6 +5,7 @@ import { Categories } from "@/components/sections/categories";
 import { SplitBlock } from "@/components/sections/split-block";
 import { Sustainability } from "@/components/sections/sustainability";
 import { Trust } from "@/components/sections/trust";
+import { TrustAnchors } from "@/components/sections/trust-anchors";
 import { AboutTeaser } from "@/components/sections/about-teaser";
 import { Faq } from "@/components/sections/faq";
 import { FinalCta } from "@/components/sections/final-cta";
@@ -39,6 +40,7 @@ export default function Home() {
         />
         <Sustainability />
         <Trust />
+        <TrustAnchors />
         <AboutTeaser />
         <Faq />
         <FinalCta />

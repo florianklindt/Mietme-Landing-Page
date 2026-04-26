@@ -138,6 +138,27 @@
       }
     ]
   },
+  "trustAnchors": {
+    "title": "Berlin macht mit.",
+    "lead": "mietme wächst seit Oktober 2022 an der HTW Berlin und ergänzt die Berliner Sharing Infrastruktur um den Bereich, der bisher fehlte: private Gegenstände aus deinem Kiez. Vom Bohrer bis zum Beamer, vom Camping Equipment bis zur Spielkonsole.",
+    "items": [
+      {
+        "value": "250+",
+        "label": "Berliner auf der Warteliste",
+        "body": "Bezahlte Erstkampagne über Meta Ads und OOH Plakate am Alexanderplatz. Gewachsen ohne große PR."
+      },
+      {
+        "value": "2024",
+        "label": "HTW KickStart Stipendium",
+        "body": "Die HTW Berlin hat mietme bereits als förderungswürdig eingestuft. Geprüft von der Institution, an der wir gebaut haben."
+      },
+      {
+        "value": "2022",
+        "label": "Drei Jahre Entwicklung",
+        "body": "Kein Pivot Hopping, keine Hobby Idee. mietme entstand im Unternehmenslabor der HTW Berlin und ist seitdem durch mehrere Iterationen gegangen."
+      }
+    ]
+  },
   "reviews": {
     "eyebrow": "07 / Stimmen",
     "title": "Was unsere Community sagt.",
