@@ -110,16 +110,6 @@
     ],
     "cta": "Become a host"
   },
-  "sustainability": {
-    "eyebrow": "05 / Sustainability",
-    "title": "Buy less.\nShare more.",
-    "lead": "Every shared tool is one that doesn't need to be newly produced. Here's the result.",
-    "stats": [
-      { "value": 2400, "unit": "t", "label": "CO₂ saved", "suffix": "" },
-      { "value": 68000, "unit": "", "label": "items shared", "suffix": "+" },
-      { "value": 142, "unit": "", "label": "active neighborhoods", "suffix": "" }
-    ]
-  },
   "trust": {
     "eyebrow": "06 / Safety",
     "title": "Trust is built in.",
@@ -161,31 +151,6 @@
         "value": "2022",
         "label": "Three years of development",
         "body": "No pivot hopping, no hobby idea. mietme started in HTW Berlin's entrepreneurship lab and has been through multiple iterations since."
-      }
-    ]
-  },
-  "reviews": {
-    "eyebrow": "07 / Voices",
-    "title": "What our community says.",
-    "communityTicker": "12,400 active neighbors",
-    "items": [
-      {
-        "name": "Lena M.",
-        "city": "Berlin",
-        "rating": 5,
-        "text": "Rented full camping gear for a weekend. Neighbor two streets away. Cheaper than any shop."
-      },
-      {
-        "name": "Jakob R.",
-        "city": "Hamburg",
-        "rating": 5,
-        "text": "Easily earn 120 euros a month with my drill that used to just sit there. Absurdly easy to set up."
-      },
-      {
-        "name": "Farah T.",
-        "city": "Munich",
-        "rating": 5,
-        "text": "Finally a platform that feels like a neighborhood. No anonymous marketplace vibes."
       }
     ]
   },

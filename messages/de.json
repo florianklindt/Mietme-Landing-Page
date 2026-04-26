@@ -110,16 +110,6 @@
     ],
     "cta": "Selbst vermieten"
   },
-  "sustainability": {
-    "eyebrow": "05 / Nachhaltigkeit",
-    "title": "Weniger kaufen.\nMehr teilen.",
-    "lead": "Jedes geteilte Werkzeug ist eines, das nicht neu produziert werden muss. Das Ergebnis siehst du hier.",
-    "stats": [
-      { "value": 2400, "unit": "t", "label": "CO₂ eingespart", "suffix": "" },
-      { "value": 68000, "unit": "", "label": "Items geteilt", "suffix": "+" },
-      { "value": 142, "unit": "", "label": "Nachbarschaften aktiv", "suffix": "" }
-    ]
-  },
   "trust": {
     "eyebrow": "06 / Sicherheit",
     "title": "Vertrauen ist eingebaut.",
@@ -161,31 +151,6 @@
         "value": "2022",
         "label": "Drei Jahre Entwicklung",
         "body": "Kein Pivot Hopping, keine Hobby Idee. mietme entstand im Unternehmenslabor der HTW Berlin und ist seitdem durch mehrere Iterationen gegangen."
-      }
-    ]
-  },
-  "reviews": {
-    "eyebrow": "07 / Stimmen",
-    "title": "Was unsere Community sagt.",
-    "communityTicker": "12.400 aktive Nachbarn",
-    "items": [
-      {
-        "name": "Lena M.",
-        "city": "Berlin",
-        "rating": 5,
-        "text": "Hab mir für ein Wochenende eine komplette Camping-Ausrüstung geliehen. Nachbar zwei Straßen weiter. Günstiger als jeder Shop."
-      },
-      {
-        "name": "Jakob R.",
-        "city": "Hamburg",
-        "rating": 5,
-        "text": "Verdiene im Monat locker 120 Euro mit meiner Bohrmaschine, die sonst rumstand. Absurd einfach eingerichtet."
-      },
-      {
-        "name": "Farah T.",
-        "city": "München",
-        "rating": 5,
-        "text": "Endlich eine Plattform, die sich wie Nachbarschaft anfühlt. Keine anonymen Marktplatz-Vibes."
       }
     ]
   },
