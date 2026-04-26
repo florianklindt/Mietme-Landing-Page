@@ -39,20 +39,20 @@
       {
         "n": "01",
         "title": "Finden",
-        "body": "Durchsuche Angebote in deiner Nähe. Filter nach Kategorie, Preis und Distanz.",
-        "meta": "Ø 47 Angebote pro km²"
+        "body": "Durchsuche Angebote in deiner Nachbarschaft. Filter nach Kategorie, Preis und Distanz.",
+        "meta": "Karte und Liste"
       },
       {
         "n": "02",
-        "title": "Anfragen",
-        "body": "Schreibe dem Vermieter direkt. Kläre Abholung, Zeitraum und Kaution in wenigen Nachrichten.",
-        "meta": "Antwort in unter 2h"
+        "title": "Buchen",
+        "body": "Verfügbarkeit, Preis und Kaution stehen direkt im Listing. Buchung mit einem Klick. Kein Verhandeln, kein Chat-Marathon.",
+        "meta": "Sofort buchbar"
       },
       {
         "n": "03",
         "title": "Ausleihen",
         "body": "Treffen, übergeben, loslegen. Mit Foto-Check und digitalem Übergabeprotokoll.",
-        "meta": "Abholung vor Ort"
+        "meta": "Persönliche Übergabe"
       }
     ]
   },

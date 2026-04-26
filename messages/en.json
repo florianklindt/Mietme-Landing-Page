@@ -39,20 +39,20 @@
       {
         "n": "01",
         "title": "Find",
-        "body": "Browse listings nearby. Filter by category, price and distance.",
-        "meta": "Avg. 47 listings per km²"
+        "body": "Browse listings in your neighborhood. Filter by category, price and distance.",
+        "meta": "Map and list"
       },
       {
         "n": "02",
-        "title": "Request",
-        "body": "Message the host directly. Arrange pickup, timeframe and deposit in just a few messages.",
-        "meta": "Reply in under 2h"
+        "title": "Book",
+        "body": "Availability, price and deposit are right in the listing. Book in one click. No haggling, no chat marathon.",
+        "meta": "Instant booking"
       },
       {
         "n": "03",
         "title": "Pick up",
         "body": "Meet, hand over, get going. With photo check and digital handover protocol.",
-        "meta": "Local pickup"
+        "meta": "In-person handover"
       }
     ]
   },
