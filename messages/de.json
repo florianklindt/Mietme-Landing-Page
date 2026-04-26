@@ -192,8 +192,8 @@
   },
   "about": {
     "meta": {
-      "title": "Über uns",
-      "description": "Warum wir mietme bauen — Zugang statt Besitz, lokal statt anonym, einfach statt kompliziert."
+      "title": "Über mietme. Verleihen unter Nachbarn in Berlin",
+      "description": "Felix, Florian und Niels bauen mietme aus Berlin. Drei Jahre Entwicklung an der HTW. Unsere Geschichte, unser Team und unsere Mission."
     },
     "hero": {
       "eyebrow": "Über uns",
@@ -206,7 +206,7 @@
       "body": "Wir finden die Idee gut, weil sie einfach ist. Die meisten Dinge, die wir brauchen, liegen schon irgendwo in der Nachbarschaft. Bohrmaschine, Campingzelt, Beamer, Partygrill. Kaufen ist selten die beste Antwort, aber oft die schnellste. mietme soll das ändern: Zugang statt Besitz, lokal statt anonym, einfach statt kompliziert. Weniger neu kaufen. Mehr teilen. Das ist der Kern."
     },
     "team": {
-      "alt": "Das Team hinter mietme, Platzhalter",
+      "alt": "Felix Rauh, Florian Klindt und Niels Schwarz, das Team hinter mietme aus Berlin.",
       "caption": "Das Team hinter mietme"
     },
     "cta": {

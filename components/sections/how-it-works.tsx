@@ -63,7 +63,7 @@ export function HowItWorks() {
             <Reveal as="div" className="-ml-5 block w-[calc(100%+20px)] md:ml-0 md:w-full">
               <Image
                 src="/images/how-mockup.png"
-                alt="mietme App auf dem Smartphone"
+                alt="mietme App auf dem Smartphone: Suche nach Mietangeboten in der Berliner Nachbarschaft mit beliebten Inseraten."
                 width={1680}
                 height={1680}
                 sizes="(min-width: 768px) 50vw, 100vw"

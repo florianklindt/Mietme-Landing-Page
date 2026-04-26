@@ -192,8 +192,8 @@
   },
   "about": {
     "meta": {
-      "title": "About us",
-      "description": "Why we're building mietme — access over ownership, local over anonymous, simple over complicated."
+      "title": "About mietme. Renting between neighbors in Berlin",
+      "description": "Felix, Florian and Niels are building mietme from Berlin. Three years of development at HTW. Our story, our team and our mission."
     },
     "hero": {
       "eyebrow": "About us",
@@ -206,7 +206,7 @@
       "body": "We like the idea because it's simple. Most of the things we need are already somewhere in the neighborhood. Drill, camping tent, projector, party grill. Buying is rarely the best answer, but often the fastest. mietme should change that: access instead of ownership, local instead of anonymous, simple instead of complicated. Buy less. Share more. That's the core."
     },
     "team": {
-      "alt": "The team behind mietme, placeholder",
+      "alt": "Felix Rauh, Florian Klindt and Niels Schwarz, the team behind mietme from Berlin.",
       "caption": "The team behind mietme"
     },
     "cta": {

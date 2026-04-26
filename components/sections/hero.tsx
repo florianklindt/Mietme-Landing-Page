@@ -102,7 +102,7 @@ export function Hero() {
               >
                 <Image
                   src="/images/hero/hero.png"
-                  alt="Oben: eine Frau schraubt an einem Holzregal. Unten: ein Mann mit einem Hochdruckreiniger im Wohnzimmer."
+                  alt="Frau schraubt mit geliehener Bohrmaschine an einem Holzregal in Berlin, darunter ein Mann mit geliehenem Hochdruckreiniger im Wohnzimmer."
                   fill
                   priority
                   sizes="(min-width: 1024px) 42vw, 100vw"

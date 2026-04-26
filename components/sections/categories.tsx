@@ -28,7 +28,7 @@ export function Categories() {
               <div className="relative aspect-square overflow-hidden rounded-lg bg-white ring-1 ring-hairline transition-all duration-base ease-out-expo md:group-hover:-translate-y-1 md:group-hover:shadow-hover md:group-hover:ring-accent">
                 <Image
                   src={`/images/categories/${cat.slug}.jpg`}
-                  alt={`${cat.title} — Beispielartikel`}
+                  alt={`Kategorie ${cat.title} auf mietme: Beispiel aus Berlin.`}
                   fill
                   loading="lazy"
                   sizes="(min-width: 768px) 320px, 45vw"
