@@ -24,7 +24,7 @@ export function TrustAnchors() {
         </Reveal>
       </div>
 
-      <div className="mt-14 grid grid-cols-1 gap-y-12 md:mt-20 md:grid-cols-3 md:gap-x-10 md:gap-y-14">
+      <div className="mt-14 grid grid-cols-1 gap-y-12 md:mt-20 md:grid-cols-2 md:gap-x-16 md:gap-y-14">
         {anchors.map((a, i) => (
           <Reveal
             as="div"
