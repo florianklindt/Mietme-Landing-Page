@@ -68,7 +68,7 @@ export function SiteNav() {
 
             <nav
               className="hidden items-center gap-10 md:flex"
-              aria-label="Hauptnavigation"
+              aria-label={t("ariaPrimary")}
             >
               {navItems.map((item) => {
                 const isActive = item.match.startsWith("/#")
@@ -221,7 +221,7 @@ function MobileNavOverlay({
           </div>
           <nav
             className="container-px mx-auto flex w-full flex-1 flex-col justify-start overflow-y-auto pt-8"
-            aria-label="Mobile Navigation"
+            aria-label={t("ariaMobile")}
           >
             <ul className="flex flex-col">
               {navItems.map((item, i) => {

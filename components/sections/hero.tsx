@@ -134,7 +134,12 @@ export function Hero() {
       </div>
 
       <div className="mt-14 border-y border-hairline py-6 md:mt-24 md:py-8">
-        <Marquee speedSec={48} ariaLabel="Kategorien-Ticker">
+        <Marquee
+          speedSec={48}
+          ariaLabel={tMarquee("marquee.ariaLabel")}
+          pauseLabel={tMarquee("marquee.pause")}
+          resumeLabel={tMarquee("marquee.resume")}
+        >
           {items.map((item, i) => (
             <span
               key={`m1-${i}-${item}`}

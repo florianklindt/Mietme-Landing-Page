@@ -7,7 +7,9 @@
     "about": "About",
     "cta": "Open app",
     "menu": "Open menu",
-    "close": "Close menu"
+    "close": "Close menu",
+    "ariaPrimary": "Main navigation",
+    "ariaMobile": "Mobile navigation"
   },
   "hero": {
     "eyebrow": "RENT · BERLIN · MIETME.APP",
@@ -21,6 +23,9 @@
     "scrollHint": "Scroll"
   },
   "marquee": {
+    "ariaLabel": "Category ticker",
+    "pause": "Pause ticker",
+    "resume": "Resume ticker",
     "items": [
       "Tools",
       "Sports",

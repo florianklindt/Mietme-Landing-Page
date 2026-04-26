@@ -11,11 +11,15 @@ export function Marquee({
   speedSec = 50,
   className,
   ariaLabel,
+  pauseLabel = "Ticker pausieren",
+  resumeLabel = "Ticker fortsetzen",
 }: {
   children: ReactNode;
   speedSec?: number;
   className?: string;
   ariaLabel?: string;
+  pauseLabel?: string;
+  resumeLabel?: string;
 }) {
   const reduce = useReducedMotion() ?? false;
   const isMobile = useIsMobile();
@@ -43,7 +47,7 @@ export function Marquee({
           type="button"
           onClick={() => setPaused((p) => !p)}
           aria-pressed={paused}
-          aria-label={paused ? "Ticker fortsetzen" : "Ticker pausieren"}
+          aria-label={paused ? resumeLabel : pauseLabel}
           className="sr-only focus:not-sr-only focus:absolute focus:right-4 focus:top-1/2 focus:-translate-y-1/2 focus:z-10 focus:inline-flex focus:h-11 focus:w-11 focus:items-center focus:justify-center focus:rounded-full focus:bg-ink focus:text-white"
         >
           {paused ? <Play className="h-4 w-4" aria-hidden="true" /> : <Pause className="h-4 w-4" aria-hidden="true" />}

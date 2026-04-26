@@ -7,7 +7,9 @@
     "about": "Über uns",
     "cta": "Zur App",
     "menu": "Menü öffnen",
-    "close": "Menü schließen"
+    "close": "Menü schließen",
+    "ariaPrimary": "Hauptnavigation",
+    "ariaMobile": "Mobile Navigation"
   },
   "hero": {
     "eyebrow": "MIETEN · BERLIN · MIETME.APP",
@@ -21,6 +23,9 @@
     "scrollHint": "Scrollen"
   },
   "marquee": {
+    "ariaLabel": "Kategorien-Ticker",
+    "pause": "Ticker pausieren",
+    "resume": "Ticker fortsetzen",
     "items": [
       "Werkzeug",
       "Sport",
