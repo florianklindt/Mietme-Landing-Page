@@ -1,7 +1,7 @@
 import { ImageResponse } from "next/og";
 
 export const runtime = "edge";
-export const alt = "mietme — Miete, was du brauchst, wann du es brauchst.";
+export const alt = "mietme — Mieten. Einfach wie Kaufen. Berlins einfachste Verleihplattform.";
 export const size = { width: 1200, height: 630 };
 export const contentType = "image/png";
 
@@ -39,7 +39,7 @@ export default async function OgImage() {
               borderRadius: 999,
             }}
           />
-          MIETME · PEER-TO-PEER VERLEIH
+          MIETME · BERLIN · MIETME.APP
         </div>
 
         <div
@@ -55,12 +55,11 @@ export default async function OgImage() {
           }}
         >
           <div style={{ display: "flex" }}>
-            <span>Miete, was du&nbsp;</span>
-            <span style={{ color: "#00D66C" }}>brauchst,</span>
+            <span style={{ color: "#00D66C" }}>Mieten.</span>
           </div>
           <div style={{ display: "flex" }}>
-            <span>wann du es&nbsp;</span>
-            <span style={{ color: "#00D66C" }}>brauchst.</span>
+            <span>Einfach wie&nbsp;</span>
+            <span style={{ color: "#00D66C" }}>Kaufen.</span>
           </div>
         </div>
 

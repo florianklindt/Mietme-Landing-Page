@@ -135,7 +135,7 @@
   },
   "trustAnchors": {
     "title": "Berlin's already in.",
-    "lead": "mietme has been growing at HTW Berlin since October 2022, adding the layer Berlin's sharing infrastructure was missing: private items from your neighborhood. From drills to projectors, from camping gear to game consoles.",
+    "lead": "mietme has been growing at HTW Berlin since 2024, adding the layer Berlin's sharing infrastructure was missing: private items from your neighborhood. From drills to projectors, from camping gear to game consoles.",
     "items": [
       {
         "value": "250+",
@@ -148,9 +148,9 @@
         "body": "HTW Berlin has already approved mietme as worthy of funding. Reviewed by the institution we built it at."
       },
       {
-        "value": "2022",
-        "label": "Three years of development",
-        "body": "No pivot hopping, no hobby idea. mietme started in HTW Berlin's entrepreneurship lab and has been through multiple iterations since."
+        "value": "55%",
+        "label": "would rent tools",
+        "body": "Our own survey in Germany, n=205. 55 percent would rent tools, 60 percent would lend. Top three purchase criteria: simple, fast, safe."
       }
     ]
   },

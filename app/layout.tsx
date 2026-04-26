@@ -104,7 +104,7 @@ const organizationJsonLd = {
     { "@type": "Person", name: "Florian Klindt" },
     { "@type": "Person", name: "Niels Schwarz" },
   ],
-  foundingDate: "2022-10",
+  foundingDate: "2024",
   foundingLocation: {
     "@type": "Place",
     name: "HTW Berlin",

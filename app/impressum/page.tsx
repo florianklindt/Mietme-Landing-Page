@@ -27,7 +27,7 @@ export default function ImpressumPage() {
             <div className="mt-14 space-y-12 text-[16px] leading-[1.65] md:mt-20">
               <Block title="Anbieter">
                 <p>mietme</p>
-                <p>Betrieben als Gesellschaft bürgerlichen Rechts (GbR) von:</p>
+                <p>Privates Projekt, betrieben gemeinschaftlich von:</p>
                 <ul className="mt-2 list-disc pl-5 marker:text-ink-muted">
                   <li>Florian Klindt</li>
                   <li>Felix Rauh</li>

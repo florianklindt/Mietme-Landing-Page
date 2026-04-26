@@ -135,7 +135,7 @@
   },
   "trustAnchors": {
     "title": "Berlin macht mit.",
-    "lead": "mietme wächst seit Oktober 2022 an der HTW Berlin und ergänzt die Berliner Sharing Infrastruktur um den Bereich, der bisher fehlte: private Gegenstände aus deinem Kiez. Vom Bohrer bis zum Beamer, vom Camping Equipment bis zur Spielkonsole.",
+    "lead": "mietme wächst seit 2024 an der HTW Berlin und ergänzt die Berliner Sharing Infrastruktur um den Bereich, der bisher fehlte: private Gegenstände aus deinem Kiez. Vom Bohrer bis zum Beamer, vom Camping Equipment bis zur Spielkonsole.",
     "items": [
       {
         "value": "250+",
@@ -148,9 +148,9 @@
         "body": "Die HTW Berlin hat mietme bereits als förderungswürdig eingestuft. Geprüft von der Institution, an der wir gebaut haben."
       },
       {
-        "value": "2022",
-        "label": "Drei Jahre Entwicklung",
-        "body": "Kein Pivot Hopping, keine Hobby Idee. mietme entstand im Unternehmenslabor der HTW Berlin und ist seitdem durch mehrere Iterationen gegangen."
+        "value": "55%",
+        "label": "der Befragten würden Werkzeuge leihen",
+        "body": "Eigene Umfrage in Deutschland, n=205. 55 Prozent würden Werkzeuge leihen, 60 Prozent verleihen. Top drei Kaufkriterien: einfach, schnell, sicher."
       }
     ]
   },
