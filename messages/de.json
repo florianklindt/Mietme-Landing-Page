@@ -10,7 +10,7 @@
     "close": "Menü schließen"
   },
   "hero": {
-    "eyebrow": "PEER-TO-PEER · LOKAL · MIETME.APP",
+    "eyebrow": "MIETEN · BERLIN · MIETME.APP",
     "headlineLead": "",
     "headlineAccent1": "Mieten.",
     "headlineConnector": "Einfach wie",
@@ -67,8 +67,8 @@
   },
   "renters": {
     "eyebrow": "03 / Für Mieter",
-    "title": "Nutzen, statt besitzen.",
-    "lead": "Du brauchst etwas für ein Wochenende, ein Projekt, eine Reise. Kauf es nicht. Leih es.",
+    "title": "Mieten statt kaufen.",
+    "lead": "Du brauchst etwas für ein Wochenende, ein Projekt, eine Reise. Mieten ist die schnellere Antwort.",
     "benefits": [
       {
         "title": "Spare Geld",
@@ -76,7 +76,7 @@
       },
       {
         "title": "In deiner Nähe",
-        "body": "Alles lokal. Fahrradwege statt Lieferung. Persönliche Übergabe statt Paketabholung."
+        "body": "Alles in deinem Kiez. Persönliche Übergabe statt Paketabholung. Schneller als jede Lieferung."
       },
       {
         "title": "Geschützt",
@@ -198,12 +198,12 @@
     "hero": {
       "eyebrow": "Über uns",
       "title": "Warum wir mietme bauen.",
-      "subline": "Ein Produkt, eine Idee, eine einfache Überzeugung."
+      "subline": "Ein Produkt, eine einfache Idee, eine Stadt: Berlin."
     },
     "idea": {
       "eyebrow": "Unsere Idee",
       "title": "Einfach, weil sie einfach bleiben soll.",
-      "body": "Wir finden die Idee gut, weil sie einfach ist. Die meisten Dinge, die wir brauchen, liegen schon irgendwo in der Nachbarschaft. Bohrmaschine, Campingzelt, Beamer, Partygrill. Kaufen ist selten die beste Antwort, aber oft die schnellste. mietme soll das ändern: Zugang statt Besitz, lokal statt anonym, einfach statt kompliziert. Weniger neu kaufen. Mehr teilen. Das ist der Kern."
+      "body": "Wir finden die Idee gut, weil sie einfach ist. Die meisten Dinge, die wir brauchen, liegen schon irgendwo in der Nachbarschaft. Bohrmaschine, Campingzelt, Beamer, Partygrill. Kaufen ist selten die beste Antwort, aber oft die schnellste. mietme soll das ändern: lokal statt anonym, transparent statt kompliziert, in Minuten statt mit Aufwand. Das ist der Kern."
     },
     "team": {
       "alt": "Felix Rauh, Florian Klindt und Niels Schwarz, das Team hinter mietme aus Berlin.",

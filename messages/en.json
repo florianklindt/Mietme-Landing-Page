@@ -10,7 +10,7 @@
     "close": "Close menu"
   },
   "hero": {
-    "eyebrow": "PEER-TO-PEER · LOCAL · MIETME.APP",
+    "eyebrow": "RENT · BERLIN · MIETME.APP",
     "headlineLead": "",
     "headlineAccent1": "Rent.",
     "headlineConnector": "As easy as",
@@ -67,8 +67,8 @@
   },
   "renters": {
     "eyebrow": "03 / For renters",
-    "title": "Use, don't own.",
-    "lead": "You need something for a weekend, a project, a trip. Don't buy it. Rent it.",
+    "title": "Rent instead of buy.",
+    "lead": "You need something for a weekend, a project, a trip. Renting is the faster answer.",
     "benefits": [
       {
         "title": "Save money",
@@ -76,7 +76,7 @@
       },
       {
         "title": "Right around the corner",
-        "body": "Everything local. Bike rides instead of deliveries. In-person handover instead of parcel pickup."
+        "body": "Everything in your neighborhood. In-person handover instead of parcel pickup. Faster than any delivery."
       },
       {
         "title": "Protected",
@@ -198,12 +198,12 @@
     "hero": {
       "eyebrow": "About us",
       "title": "Why we're building mietme.",
-      "subline": "One product, one idea, one simple conviction."
+      "subline": "One product, one simple idea, one city: Berlin."
     },
     "idea": {
       "eyebrow": "Our idea",
       "title": "Simple because it should stay simple.",
-      "body": "We like the idea because it's simple. Most of the things we need are already somewhere in the neighborhood. Drill, camping tent, projector, party grill. Buying is rarely the best answer, but often the fastest. mietme should change that: access instead of ownership, local instead of anonymous, simple instead of complicated. Buy less. Share more. That's the core."
+      "body": "We like the idea because it's simple. Most of the things we need are already somewhere in the neighborhood. Drill, camping tent, projector, party grill. Buying is rarely the best answer, but often the fastest. mietme should change that: local instead of anonymous, transparent instead of complicated, in minutes instead of with effort. That's the core."
     },
     "team": {
       "alt": "Felix Rauh, Florian Klindt and Niels Schwarz, the team behind mietme from Berlin.",

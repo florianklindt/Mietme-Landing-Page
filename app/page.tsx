@@ -5,7 +5,6 @@ import { Hero } from "@/components/sections/hero";
 import { HowItWorks } from "@/components/sections/how-it-works";
 import { Categories } from "@/components/sections/categories";
 import { SplitBlock } from "@/components/sections/split-block";
-import { Sustainability } from "@/components/sections/sustainability";
 import { Trust } from "@/components/sections/trust";
 import { TrustAnchors } from "@/components/sections/trust-anchors";
 import { AboutTeaser } from "@/components/sections/about-teaser";
@@ -120,7 +119,6 @@ export default async function Home() {
           imageSrc="/images/hosts-mockup.png"
           imageAlt="mietme App auf dem Smartphone: Inserat für einen Bosch Werkzeugkoffer in Berlin mit Preis, Kaution und Beschreibung."
         />
-        <Sustainability />
         <Trust />
         <TrustAnchors />
         <AboutTeaser />
