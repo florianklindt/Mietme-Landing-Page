@@ -187,7 +187,7 @@
   "aboutTeaser": {
     "eyebrow": "08 / Über uns",
     "title": "Hinter mietme steckt ein kleines Team.",
-    "lead": "mietme verbindet Menschen in der Nachbarschaft, damit Dinge genutzt werden statt herumzustehen. Kein Besitz um des Besitzens willen, sondern Zugang, wenn man ihn braucht.",
+    "lead": "Felix, Florian und Niels bauen mietme aus Berlin. Bohrer, Hochdruckreiniger und Camping Equipment liegen in Schränken, statt benutzt zu werden. Wir machen den Tausch zwischen Nachbarn so einfach wie eine Online Bestellung.",
     "cta": "Mehr über uns"
   },
   "about": {
@@ -210,7 +210,7 @@
       "caption": "Das Team hinter mietme"
     },
     "cta": {
-      "title": "Willst du mitmachen?",
+      "title": "Was brauchst du als nächstes?",
       "lead": "Finde, was du brauchst, oder verleihe, was bei dir ohnehin herumsteht.",
       "button": "Zur App"
     }
@@ -237,15 +237,15 @@
       },
       {
         "q": "Was, wenn der Vermieter nicht antwortet?",
-        "a": "Innerhalb von 24 Stunden sollte es eine Antwort geben. Sonst buchst du anderswo, und unser Support meldet sich beim Vermieter."
+        "a": "Wenn nichts kommt, melde es uns. Wir helfen dir eine Alternative zu finden oder klären die Situation."
       },
       {
         "q": "Kann ich die Kaution festlegen?",
-        "a": "Ja. Als Vermieter entscheidest du, wie hoch die Kaution ist. Sie wird automatisch eingefroren und nach der Rückgabe freigegeben."
+        "a": "Ja. Du legst die Kaution selbst fest. Wir empfehlen einen Wert nahe dem Neupreis des Gegenstands."
       },
       {
         "q": "Gibt es mietme in meiner Stadt?",
-        "a": "Wir starten in Berlin."
+        "a": "Wir starten in Berlin. Hier wächst die Plattform aktuell am schnellsten. Andere Städte folgen, sobald die Berliner Basis steht."
       }
     ]
   },
@@ -257,7 +257,7 @@
     "ctaGhost": "Sachen anbieten"
   },
   "footer": {
-    "tagline": "Nachbarschaftliches Verleihen, einfach gemacht.",
+    "tagline": "Berlins einfachste Verleihplattform.",
     "sections": [
       {
         "title": "Produkt",

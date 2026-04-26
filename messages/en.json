@@ -187,7 +187,7 @@
   "aboutTeaser": {
     "eyebrow": "08 / About us",
     "title": "Behind mietme is a small team.",
-    "lead": "mietme connects neighbors so things get used instead of sitting around. Not ownership for its own sake, but access when you need it.",
+    "lead": "Felix, Florian and Niels are building mietme from Berlin. Drills, pressure washers and camping gear sit in closets instead of being used. We make the exchange between neighbors as simple as an online order.",
     "cta": "More about us"
   },
   "about": {
@@ -210,7 +210,7 @@
       "caption": "The team behind mietme"
     },
     "cta": {
-      "title": "Want to join?",
+      "title": "What do you need next?",
       "lead": "Find what you need, or rent out what's already sitting around.",
       "button": "Open app"
     }
@@ -237,15 +237,15 @@
       },
       {
         "q": "What if the host doesn't reply?",
-        "a": "You should get a reply within 24 hours. Otherwise you book somewhere else and our support reaches out to the host."
+        "a": "If nothing comes, let us know. We'll help you find an alternative or sort out the situation."
       },
       {
         "q": "Can I set the deposit?",
-        "a": "Yes. As a host you decide how high the deposit is. It's automatically held and released after the return."
+        "a": "Yes. You set the deposit yourself. We recommend a value close to the item's retail price."
       },
       {
         "q": "Is mietme available in my city?",
-        "a": "We're starting in Berlin."
+        "a": "We're starting in Berlin. That's where the platform is growing fastest right now. Other cities will follow once the Berlin base is set."
       }
     ]
   },
@@ -257,7 +257,7 @@
     "ctaGhost": "List your stuff"
   },
   "footer": {
-    "tagline": "Neighborhood renting, made simple.",
+    "tagline": "Berlin's simplest rental platform.",
     "sections": [
       {
         "title": "Product",
